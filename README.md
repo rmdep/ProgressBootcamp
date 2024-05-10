@@ -1,2 +1,2 @@
 # ProgressBootcamp
-ni progress 
+ni bang progresnya
